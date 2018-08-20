@@ -14,17 +14,7 @@ file_list = {'Training\1.jpg';
     'Training\9.jpg';
     'Training\10.jpg';
     'Training\11.jpg';
-    'Training\12.jpg';
-    'Training\13.jpg';
-    'Training\14.jpg';
-    'Training\15.jpg';
-    'Training\16.jpg';
-    'Training\17.jpg';
-    'Training\18.jpg';
-    'Training\19.jpg';
-    'Training\20.jpg';
-    'Training\21.jpg';
-    'Training\22.jpg';};
+    'Training\12.jpg';};
 
 if restart_training == 1
     hsv = 0;
